@@ -1,0 +1,18 @@
+<data>
+	<empresa>"Empresa Ejemplo SA de CV"</empresa>
+	<items>
+		<item indice="" nombre="Empresa Ejemplo SA de CV" parent="root" />
+		<item indice="PL" nombre="Planeacion de Auditoria" parent="Empresa Ejemplo SA de CV" />
+		<item indice="PL.1" nombre="Carta Salvaguarda.pdf" parent="Planeacion de Auditoria" />
+		<item indice="PL.2" nombre="Contrato de Servicio.pdf" parent="Planeacion de Auditoria" />
+		<item indice="A" nombre="Efectivo" parent="Empresa Ejemplo SA de CV " />
+		<item indice="A.0" nombre="Programa.docx" parent="Efectivo" />
+		<item indice="A.1" nombre="Sumaria.xlsx" parent="Efectivo" />
+		<item indice="A.2" nombre="INT de Fondos.xlsx" parent="Efectivo" />
+		<item indice="A.3" nombre="Arqueo D.G.xlsx" parent="Efectivo" />
+		<item indice="A.4" nombre="Arqueo Compras.xlsx" parent="Efectivo" />
+		<item indice="A.5" nombre="Arqueo Caja General.xlsx" parent="Efectivo" />
+
+
+	</items>
+</data>
